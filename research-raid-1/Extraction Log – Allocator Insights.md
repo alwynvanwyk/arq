@@ -5,6 +5,13 @@
 
 ---
 
+## Notes
+- Use the table to capture **allocator quotes and observations** from forums, reports, podcasts, or interviews.  
+- Each row = one “insight unit” (allocator statement + your tag).  
+- Over time, clusters will emerge (e.g., “signal overload,” “lack of local context,” “missing grassroots signals”).  
+
+---
+
 ## Table of Extracted Insights
 
 [Gitcoin Governance Forum - Gitcoin RetroPGF Discussion](https://gov.gitcoin.co/t/gitcoin-retropgf-discussion/17188/1)
@@ -42,29 +49,69 @@
 |--------|----------------|------------------|------------|-------|-------------|
 | Gitcoin Forum – 3 Core Challenges to Solve in 2025     | Grants Allocator     | Vision & trend alignment | Misalignment with actual user needs; trend chasing | "But instead of figuring out who Gitcoin’s customers are, which market problems are we solving, we have this shiny vision and an approach of trend surfing." | Strategy misalignment; user disconnect |
 
+[Hypercerts Whitepaper - Retrospective Impact Funding](https://hypercerts.org/docs/whitepaper/retrospective-funding)
+| Source | Allocator Role | Signal Mentioned | Pain Point | Quote | Insight/Tag |
+|--------|----------------|------------------|------------|-------|-------------|
+| Hypercerts Whitepaper – Retrospective Impact Funding | Impact Funders | Future funding expectations | Uncertainty in retrospective rewards | "The crucial aspect for this to work: funders need to retrospectively fund impact, and send credible signals that they will do so in the future." | Signal credibility; expectation management |
 
----
+[KlimaDAO Forum - RFC: Progress Operating Model and Organizational Structure with Hats Protocol](https://forum.klimadao.finance/d/306-rfc-progress-operating-model-and-organizational-structure-with-hats-protocol)
+| Source | Allocator Role | Signal Mentioned | Pain Point | Quote | Insight/Tag |
+|--------|----------------|------------------|------------|-------|-------------|
+| KlimaDAO Forum – Hats Protocol RFC | DAO Allocator | Manual permission management | Time-consuming contributor onboarding/offboarding | "This entails a great deal of manual toil to onboard and offboard contributors - as well as limiting transparency and accountability, which are core to KlimaDAO's values and key to progressive decentralization." | Manual toil; transparency gaps |
+| KlimaDAO Forum – Hats Protocol RFC | DAO Allocator | Role-based permissions | Ad hoc permissioning limits accountability | "Since launch, KlimaDAO's internal organizational structure has relied on fairly informal governance processes and ad hoc permissioning." | Permission management; accountability |
 
-## Notes
-- Use the table above to capture **allocator quotes and observations** from forums, reports, podcasts, or interviews.  
-- Each row = one “insight unit” (allocator statement + your tag).  
-- Over time, clusters will emerge (e.g., “signal overload,” “lack of local context,” “missing grassroots signals”).  
+[Safe Global Forum - Formalizing the Guardian Role onchain with Hats Protocol](https://forum.safe.global/t/discussion-obra-formalizing-the-guardian-role-onchain-with-hats-protocol-hats-protocol/4631)
+| Source | Allocator Role | Signal Mentioned | Pain Point | Quote | Insight/Tag |
+|--------|----------------|------------------|------------|-------|-------------|
+| Safe Global Forum – Guardian Role Discussion | Guardian/Allocator | Role transparency | Lack of onchain role clarity | "This initiative will increase transparency of the Guardian role by providing the role with an onchain source of truth. Through the Hats interface, anyone will be able to see who is holding the role at a given time, along with the responsibilities, authorities, and eligibility criteria of the role." | Role clarity; transparency |
+| Safe Global Forum – Guardian Role Discussion | Guardian/Allocator | Guardian activity levels | Inactive role holders | "I've noticed that most Guardians have not been very active in the Guardian channels or the Safe Forum." | Activity tracking; engagement |
+
+[PushDAO Forum - Advancing Progressive Decentralization with Hats Protocol](https://gov.push.org/t/discussion-advancing-pushdao-progressive-decentralization-council-development-with-hats-protocol/1764)
+| Source | Allocator Role | Signal Mentioned | Pain Point | Quote | Insight/Tag |
+|--------|----------------|------------------|------------|-------|-------------|
+| PushDAO Forum – Progressive Decentralization | Council Allocator | Reputation tracking | Difficulty tracking contributor development | "Is it possible to see the behavior history of a wallet and its previous associated skills or roles in one place? Understanding that Hats are granted and automatically deactivated at the end of a determined period, it might be interesting to see the 'development status' of contributors, ambassadors, and DAO Council members." | Reputation tracking; contributor history |
+
 
 ---
 
 ## Clusters that emerged
 
-### **Cluster 1: Bias in Allocations**
+### **Cluster 1: Systemic Allocation Biases**
 
-* *Tech bias* → allocators skewing toward tech products.
-* *Hype bias* → impressive/innovative signals overshadow true purpose.
-* *Social capital bias* → large, visible projects eclipsing small impactful ones.
+* *Tech bias* → allocators with technical expertise skewing toward tech products over other impact areas.
+* *Hype bias* → impressive/innovative signals overshadowing actual purpose and impact.
+* *Social capital bias* → well-connected projects with strong marketing eclipsing smaller impactful ones.
+* *Popularity bias* → quorum requirements transforming processes into popularity contests.
 
-### **Cluster 2: Inclusion & Fairness**
+### **Cluster 2: Eligibility & Inclusion Challenges**
 
-* *VC bias* → debate over whether VC-funded projects should be eligible.
-* *Brand duplication* → confusion over evaluating brand-linked submissions.
+* *VC bias* → ongoing debates over whether VC-funded projects should be eligible for grants.
+* *Brand fragmentation* → confusion over evaluating related submissions under same brand identity.
+* *Insider vs. outsider tension* → balancing governance expansion while avoiding nepotism.
 
-### **Cluster 3: Governance & Trust**
+### **Cluster 3: Signal Quality & Evaluation Gaps**
 
-* *Nepotism risk* → concern about expanding beyond insiders while avoiding favoritism.
+* *Oracle problem* → insufficient relevant attestations for non-digital impact measurement.
+* *Definition ambiguity* → unclear boundaries between "impact" and "profit" in evaluation criteria.
+* *Signal credibility* → uncertainty about future funding commitments affecting present work.
+* *Strategy misalignment* → trend surfing instead of addressing actual user needs and market problems.
+
+### **Cluster 4: Process & Operational Inefficiencies**
+
+* *Manual toil* → time-consuming contributor onboarding/offboarding limiting transparency.
+* *Ad hoc permissioning* → informal governance processes creating accountability gaps.
+* *Role transparency* → lack of clear, onchain role definitions and responsibilities.
+
+### **Cluster 5: Accountability & Engagement Issues**
+
+* *Conflict of interest* → allocators funding projects that primarily benefit themselves.
+* *Activity tracking* → difficulty monitoring and measuring allocator engagement levels.
+* *Reputation tracking* → inability to see contributor development history and past performance.
+
+### **Cluster 6: Evaluation Process Fragmentation**
+
+* *Duplication confusion* → unclear rules for handling related or branded submissions.
+* *Expertise limitations* → narrow technical expertise leading to skewed allocation patterns.
+* *Visibility gaps* → emerging projects lacking resources for effective promotion and discovery.
+
+---
