@@ -1,0 +1,84 @@
+Explorers Pool
+signaling
+
+
+Pool address
+Council safe: 5c64...f044
+Tribunal safe: 1b8c...9a7e
+
+Cookie Jar Research Raid
+Duration: 6 weeks 
+Start: August 6 · End: September 20
+Weekly Reward: 0.08 ETH
+
+Explorers are frontline researchers. They deep-dive into a specific research prompt across one of three tracks, working to surface usable insights, prototypes, and new signals for Ethereum-aligned capital allocators.
+- Explore frictions points!
+- Map insights!
+- Prototype!
+- Discover new primitives!
+
+Responsibilities
+- Pursue a track prompt (choose one of the 3) and define your specific angle of inquiry.
+- Join the Kickoff Call on August 6.
+- Post a weekly update in the Explorers Circle thread (progress, blockers, learnings).
+- Share links to your weekly thread replies on cookiejar.wtf to claim your payout.
+- Activate Meta-Items (Research Aid and Party) as needed
+- Collaborate with Alchemists to refine your research and distill insights.
+- Deliver your final Artifact, Insight Map, and TVF Reflection by the end of the Raid.
+- Join the closing call.
+
+Meta-Items You’ll Use
+- Research Aid | Request clarification, feedback, or wizard support by tagging @Alchemists in your thread |
+- Party | Propose a co-work session to jam or align; share back in Explorers Circle |
+
+Research Tracks
+- Track 1: Allocator Pain Mapping & Signal Architectures
+- Track 2: Growth, Activation & Strategic Readiness
+- Track 3: Product & Mechanism R&D (UX, Coordination, Interop)
+
+Possible Artifacts & Outcomes
+- Insight Maps | Allocator personas, signal maps, decision journeys
+- Reports | Forum archaeology, landscape review, coordination pain taxonomy
+- Prototypes | UX flows, dashboards, signaling mockups
+- Frameworks | Signal emergence models, readiness indices, tooling typologies
+- Memos/Briefs | “Why X ecosystem stalled”, “Signal gap analysis”
+
+Submit your proposal with the template below:
+---
+
+## Explorer Application
+
+@alwynvanwyk
+0x4E9dD8389F25f2797Dfc3E0aFE761A1F2D638b7E
+
+**1. Track you're applying to (pick one):**  
+[ ] Track 1 – Allocator Pain Mapping & Signal Architectures  
+[ ] Track 2 – Growth, Activation & Strategic Readiness  
+[ ] Track 3 – Product & Mechanism R&D (UX, Coordination, Interop)
+
+**2. Why this track excites you (max 4 sentences):**  
+Tell us why this question matters to you. What drives your curiosity here?
+
+**3. Relevant experience:**  
+Any work, research, or contributions that show you’re ready for this topic. Links welcome.
+
+**4. Research approach (3 bullet outline):**  
+How do you plan to explore this question? Interviews, dashboards, diagrams, forum archeology, etc.
+
+**5. Intended output format:**  
+What form will your final artifact take? Report, prototype, Figma flow, data viz, strategy brief, etc.
+
+**6. TVF Impact Statement (max 150 words):**  
+If adopted, how might this research unlock future value flow? Who benefits, and how?
+
+---
+
+Selection
+Until Aug 5, 23:59 PM UTC
+Ranked Conviction Voting (Top 4 Explorers selected)
+Voting Eligibility: Be an Allo NFT holder or member of the Allominati Circle
+
+Evaluation Criteria
+Alignment with Allo’s real-world questions and strategy
+Clear scoping and realistic deliverables
+Creativity and praticality
