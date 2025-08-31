@@ -63,8 +63,4 @@ The analysis revealed **6 distinct cluster categories** of allocator pain points
 
 **Process inefficiencies** create compounding problems - manual contributor management, ad hoc permissioning, and lack of role transparency not only waste time but actively undermine accountability and progressive decentralization efforts.
 
-The **Miro affinity diagram** visualization revealed unexpected connections between seemingly disparate issues, particularly how evaluation process fragmentation amplifies existing biases and creates visibility gaps for emerging projects.
-
-These findings are directly informing the **Insight Map** development and will guide Week 3 interview questions to validate and deepen understanding of allocator personas across these 6 cluster dimensions.
-
 ---
