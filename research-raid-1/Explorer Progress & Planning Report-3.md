@@ -12,8 +12,7 @@
 - Interviews: 2 respondents consented; being scheduled for this week (20–30 mins each).
 - Extraction Log: forum insights baseline complete; interview entries will be added as de-identified rows (e.g., “Interview #1 — DAO steward”).
 - Personas v0: outline ready; to be drafted after first 2 interviews.
-- Mutual aid session (Funding Readiness Quest): contributed ideas to support two fellow researchers (Trinity and Kent) and invited a few close collaborators to broaden perspectives while keeping the group intentionally small and focused; modeled a playful yet practical approach to rotating mutual aid aligned with ARQ goals.
-- Peer evaluations: assessed nine peer submissions (excluding my own), scoring the value of their insights for the research.
+- Mutual aid session (Funding Readiness Quest): As part of my Week 3 activities, I participated in a gamified mutual aid session hosted on the Funding Readiness Quest platform, where I contributed ideas to support two fellow researchers, Trinity and Kent. I also evaluated nine peer submissions—excluding my own—by scoring the value of their insights for the research. Together, these activities modeled a playful yet practical approach to rotating mutual aid, aligning with the ARQ program’s broader goal of experimenting with new ways of distributing support and feedback among peers. Awesome initiative, ForkInWisdom!
 
 ---
 
@@ -28,18 +27,24 @@
 1) Conduct 1–2 interviews; capture anonymized notes; extract 4–6 insight units into the Extraction Log.
 2) Update Anonymized Survey Summary with theme counts and sanitized exemplar quotes.
 3) Draft Personas v0 (2–3 personas) grounded in clusters and interview data.
-4) Draft Insight Map v0 (repo one-pager) and reference Miro board.
+4) Draft Insight Map v0 (repo one-pager).
 5) Prepare Week 3 claim (post link + artifacts list).
 
 ---
 
 ## 🗂️ Artifacts
 - Extraction Log – Allocator Insights: ./Extraction Log – Allocator Insights.md
-- Miro Affinity Diagram: https://miro.com/app/board/uXjVJOMbzRY=/?share_link_id=211957903568
-- Survey (Google Forms): [Public Form Link]
-- Anonymized Survey Summary: ./Survey Summary – Anonymized.md
+- Survey (Google Forms): https://docs.google.com/forms/d/e/1FAIpQLScTupii-R5n-MY39WfWWaQim_i7KnDc2vDQJqcCMckkeHDp7w/viewform?usp=header
+- Survey Summary – Anonymized: ./Survey Summary – Anonymized.md
+- Survey Responses Summary 1: ./Survey Responses Summary 1.md
+- Survey (redacted CSV export): ./Allocator Pain Points & Signal Architecture Survey-redacted.csv
+- Interview Guide – Allocators: ./Interview Guide - Allocators.md
+- Interview Notes Template: ./Interview Notes Template.md
+- Outreach Script – Interviews: ./Outreach Script - Interviews.md
+- Personas v0 – Scaffold: ./Personas v0 - Scaffold.md
 - Week 1 Report: ./Explorer Progress & Planning Report-1.md
 - Week 2 Report: ./Explorer Progress & Planning Report-2.md
+- Miro Affinity Diagram: https://miro.com/app/board/uXjVJOMbzRY=/?share_link_id=211957903568
 
 ---
 
@@ -72,21 +77,6 @@ Interview prompts (mapped to clusters):
 - Bias and fairness concerns; mitigation strategies.
 - Operational frictions (permissioning, roles, tooling) and accountability gaps.
 - Evaluation fragmentation: duplication, expertise limits, visibility gaps.
-
----
-
-## 🧩 Personas v0 (placeholder)
-Use interview and survey data to draft 2–3 personas across the six cluster dimensions.
-- Persona A — [e.g., “Process-Constrained Steward”]: goals, pains, signals trusted/missing, evaluation heuristics.
-- Persona B — [e.g., “Impact-Seeking Badgeholder”]: goals, pains, signals trusted/missing, evaluation heuristics.
-- Persona C — [optional]
-
----
-
-## 🗺️ Insight Map v0 (placeholder)
-- Layers: Systemic biases; Signal quality & evaluation gaps; Operational frictions; Accountability; Fragmentation.
-- Signal flows: present vs missing signals; trust sources vs contested sources.
-- Link to Miro for visual clustering and evolving structure.
 
 ---
 
